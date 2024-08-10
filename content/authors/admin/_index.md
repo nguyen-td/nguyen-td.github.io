@@ -55,12 +55,8 @@ education:
     institution: Bernstein Center for Computational Neuroscience Berlin
     date_start: 2020
     date_end: 2024
-  - area: Erasmus+ Exchange  
-    institution: University of Belgrade
-    date_start: 2019
-    date_end: 2020
   - area: BSc Computer Science & Economics
-    institution: Berlin School of Economics and Law (HWR Berlin)
+    institution: Berlin School of Economics and Law 
     date_start: 2017
     date_end: 2020
 work:
