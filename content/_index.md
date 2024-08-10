@@ -7,6 +7,9 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
+  background:
+    image:
+      filename: background.svg
 
 sections:
   - block: resume-biography-3
