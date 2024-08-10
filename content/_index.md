@@ -24,17 +24,14 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
       background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: ''
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+        # Choose colors such as from https://html-color-codes.info
+        gradient_start: '#4bb4e3'
+        gradient_end: '#2b94c3'
+        # The gradient angle from 0-360 degrees
+        gradient_angle: 180
+        # Text color (true=light, false=dark, or remove for the dynamic theme color).
+        text_color_light: true
   - block: markdown
     content:
       title: '📚 My Research'
