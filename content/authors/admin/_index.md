@@ -51,7 +51,6 @@ education:
   - area: PhD Neuroscience
     institution: The University of Texas at Austin
     date_start: 2024
-    date_end: present
   - area: MSc Computational Neuroscience
     institution: Bernstein Center for Computational Neuroscience Berlin
     date_start: 2020
