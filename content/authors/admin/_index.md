@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Tien Dung Nguyen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tien Dung
+last_name: Nguyen
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍀
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +20,105 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Neuroscience PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The University of Texas at Austin
+    url: https://www.utexas.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'tien-dung.nguyen@utexas.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/tdnguyen23
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/nguyen-td
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/tien-dung-nguyen-b5749b173/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?view_op=list_works&hl=de&authuser=3&user=eppIeNoAAAAJ&gmla=AC6lMd_8T6yVGVoxcHQog2aq_HdgtE0jPeCn2-Akg5QY0RYt31rjfK4T7E7JcxNQrRCMwcomBRfqrT4BzehgySB5pp5ENDZJXix6HaFHLZAB5vhSrqbuM2kq_ICzAQg
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Neuroscience
+  - Machine Learning
+  - Signal Processing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: PhD Neuroscience
+    institution: The University of Texas at Austin
+    date_start: 2024
+    date_end: present
+  - area: MSc Computational Neuroscience
+    institution: Bernstein Center for Computational Neuroscience Berlin
+    date_start: 2020
+    date_end: 2024
+  - area: Erasmus+ Exchange  
+    institution: University of Belgrade
+    date_start: 2019
+    date_end: 2020
+  - area: BSc Computer Science & Economics
+    institution: Berlin School of Economics and Law (HWR Berlin)
+    date_start: 2017
+    date_end: 2020
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+- position: Student Research Assistant
+    company_name: Charitè - Universitätsmedizin Berlin
+    company_url: https://www.charite.de/en/
+    company_logo: https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_Charite.svg
+    date_start: 2022-02
+    date_end: 2024-08
+  - position: Working Student Customer Experience
+    company_name: expondo GmbH
+    company_url: https://www.expondo.co.uk/
+    company_logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxua25YSHonHjyMEoFmRsPGbRYf3P5lseIrQ&s
+    date_start: 2020-10
+    date_end: 2022-01
+  - position: Cooperative Degree Student
+    company_name: Berliner Wasserbetriebe
+    company_url: https://www.bwb.de/en/index.php
+    company_logo: https://upload.wikimedia.org/wikipedia/de/9/94/Berliner-wasserbetriebe.svg
+    date_start: 2017-08
+    date_end: 2020-09
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: '' # e.g., Data Science
     items:
-      - name: Python
+      - name: ''
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+        percent: ''
+        icon: ''
+  - name: '' # Hobbies
+    color: ''
+    color_border: ''
     items:
-      - name: Hiking
+      - name: ''
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+        percent: ''
+        icon: ''
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: ''
+    url: ''
+    date: ''
+    awarder: ''
+    icon: ''
+    summary: ''
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a first-year Neuroscience PhD student affiliated with the [Institute for Neuroscience](https://neuroscienceinstitute.utexas.edu/PhD%20Program) at [The University of Texas at Austin](https://www.utexas.edu/). I am broadly interested in how machine learning and signal processing techniques can be leveraged to drive discoveries in neuroscience. 
+
+Before I joined the PhD program, I completed my masters in Computational Neuroscience at the [Bernstein Center for Computational Neuroscience Berlin](https://www.bccn-berlin.de/), where I worked with [Prof. Stefan Haufe](https://www.tu.berlin/uniml/about/head-of-group) on developing, extending, and implementing computational methods to analyze linear and nonlinear functional connectivity from EEG time series. Before that, I did my bachelors in Computer Science & Economics (Wirtschaftsinformatik) at the [Berlin School of Economics and Law](https://www.hwr-berlin.de/en/), where I worked at [Berliner Wasserbetriebe](https://languages.bwb.de/en/index.php) as part of the dual studies program. 
+
+Aside from doing science, I love practicing and playing the piano 🎹! My favourite composers are probably Beethoven and Chopin but I started to appreciate Bach more, now that I managed to play one of his Fugues (I definitely did not masted it yet, though). 
