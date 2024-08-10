@@ -65,7 +65,7 @@ education:
     date_start: 2017
     date_end: 2020
 work:
-- position: Student Research Assistant
+  - position: Student Research Assistant
     company_name: Charitè - Universitätsmedizin Berlin
     company_url: https://www.charite.de/en/
     company_logo: https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_Charite.svg
