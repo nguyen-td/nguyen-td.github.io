@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
   background:
     image:
-      filename: background.svg
+      filename: ''
 
 sections:
   - block: resume-biography-3
@@ -27,7 +27,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: background.svg
           filters:
             brightness: 1.0
           size: cover
