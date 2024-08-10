@@ -13,6 +13,8 @@ design:
 
 sections:
   - block: resume-biography-3
+    appearance:
+      theme_default: system
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -27,7 +29,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: background.svg
+          filename: ''
           filters:
             brightness: 1.0
           size: cover
