@@ -69,20 +69,20 @@ work:
     company_name: Charitè - Universitätsmedizin Berlin
     company_url: https://www.charite.de/en/
     company_logo: https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_Charite.svg
-    date_start: 2022-02
-    date_end: 2024-08
+    date_start: 2022
+    date_end: 2024
   - position: Working Student Customer Experience
     company_name: expondo GmbH
     company_url: https://www.expondo.co.uk/
     company_logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxua25YSHonHjyMEoFmRsPGbRYf3P5lseIrQ&s
-    date_start: 2020-10
-    date_end: 2022-01
+    date_start: 2020
+    date_end: 2022
   - position: Cooperative Degree Student
     company_name: Berliner Wasserbetriebe
     company_url: https://www.bwb.de/en/index.php
     company_logo: https://upload.wikimedia.org/wikipedia/de/9/94/Berliner-wasserbetriebe.svg
-    date_start: 2017-08
-    date_end: 2020-09
+    date_start: 2017
+    date_end: 2020
   
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
