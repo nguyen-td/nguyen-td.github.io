@@ -40,10 +40,4 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
-    navbar:
-      enable: true
-      blox: "navbar"
-      fixed_to_top: true
-      show_search: true
-      show_theme_chooser: true
 ---
