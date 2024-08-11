@@ -11,7 +11,7 @@ authors:
 date: '2023-10-01'
 publishDate: '2024-08-10T00:40:34.425315Z'
 publication_types:
-- manuscript
+- preprint
 publication: '*bioRxiv*'
 doi: 10.1101/2023.10.26.564193
 abstract: Phase-amplitude coupling (PAC) is a form of cross-frequency coupling in
@@ -46,4 +46,42 @@ abstract: Phase-amplitude coupling (PAC) is a form of cross-frequency coupling i
 links:
 - name: URL
   url: https://www.biorxiv.org/content/10.1101/2023.10.26.564193v1
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
+
+tags:
+  - Neuroscience
+
+# Summary. An optional shortened abstract.
+summary: Using simulations, we investigate the performance of different algorithms in distinguishing between genuine between-site PAC and within-site PAC.
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - Franziska Pellegrini
+  - admin
+  - Taliana Herrera
+  - Vadim Nikulin
+  - Guido Nolte
+  - Stefan Haufe
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://www.biorxiv.org/content/10.1101/2023.10.26.564193v1.abstract'
+url_code: 'https://github.com/fpellegrini/PAC/tree/master'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
