@@ -28,7 +28,7 @@ marketing:
 
 # Site header
 header:
-  navbar:
+  navbar-simple:
     enable: true
     blox: "navbar"
     fixed_to_top: true
