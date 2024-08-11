@@ -27,13 +27,14 @@ marketing:
     baidu: ''
 
 # Site header
-header:
-  navbar:
-    enable: true
-    blox: "navbar"
-    fixed_to_top: true
-    show_search: true
-    show_theme_chooser: true
+# header:
+#  navbar:
+#    enable: true
+#    blox: "navbar"
+#    fixed_to_top: true
+#    show_search: true
+#    show_theme_chooser: true
+
 
 # Site footer
 footer:
