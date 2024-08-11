@@ -32,7 +32,6 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'tien-dung.nguyen@utexas.edu'
-    label: E-mail Me
   - icon: brands/x
     url: https://x.com/tdnguyen23
   - icon: brands/github
