@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tien Dung Nguyen
+title: Tien Dung **Nguyen**
 
 # Name pronunciation (optional)
 name_pronunciation: ''
