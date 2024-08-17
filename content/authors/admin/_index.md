@@ -31,8 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'tien-dung.nguyen@utexas.edu'
-    label: E-mail Me
+    url: 'mailto:tien-dung.nguyen@utexas.edu'
   - icon: brands/x
     url: https://x.com/tdnguyen23
   - icon: brands/github
@@ -50,34 +49,34 @@ interests:
 education:
   - area: PhD Neuroscience
     institution: The University of Texas at Austin
-    date_start: 2024
+    date_start: 2024-08-01
   - area: MSc Computational Neuroscience
     institution: Bernstein Center for Computational Neuroscience Berlin
-    date_start: 2020
-    date_end: 2024
+    date_start: 2020-10-01
+    date_end: 2024-08-30
   - area: BSc Computer Science & Economics
     institution: Berlin School of Economics and Law 
-    date_start: 2017
-    date_end: 2020
+    date_start: 2017-08-01
+    date_end: 2020-09-01
 work:
   - position: Student Research Assistant
     company_name: Charitè - Universitätsmedizin Berlin
     company_url: https://www.charite.de/en/
     company_logo: https://upload.wikimedia.org/wikipedia/commons/5/51/Logo_Charite.svg
-    date_start: 2022
-    date_end: 2024
+    date_start: 2022-02-01
+    date_end: 2024-08-30
   - position: Working Student Customer Experience
     company_name: expondo GmbH
     company_url: https://www.expondo.co.uk/
     company_logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxua25YSHonHjyMEoFmRsPGbRYf3P5lseIrQ&s
-    date_start: 2020
-    date_end: 2022
+    date_start: 2020-10-01
+    date_end: 2022-01-30
   - position: Cooperative Degree Student
     company_name: Berliner Wasserbetriebe
     company_url: https://www.bwb.de/en/index.php
     company_logo: https://upload.wikimedia.org/wikipedia/de/9/94/Berliner-wasserbetriebe.svg
-    date_start: 2017
-    date_end: 2020
+    date_start: 2017-08-01
+    date_end: 2020-09-30
   
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -110,7 +109,7 @@ awards:
     summary: ''
 ---
 
-## About Me
+# About Me
 
 Hello! I am a first-year Neuroscience PhD student affiliated with the [Institute for Neuroscience](https://neuroscienceinstitute.utexas.edu/PhD%20Program) at [The University of Texas at Austin](https://www.utexas.edu/). I am broadly interested in how mathematical and computational techniques can be leveraged to drive discoveries in neuroscience. 
 
