@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source | Tien Dung Nguyen</title>
+    <link>http://localhost:1313/tags/open-source/</link>
+      <atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Source</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu10759283619448032952.png</url>
+      <title>Open Source</title>
+      <link>http://localhost:1313/tags/open-source/</link>
+    </image>
+    
+    <item>
+      <title>ROIconnect</title>
+      <link>http://localhost:1313/project/roiconnect/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/roiconnect/</guid>
+      <description>&lt;p&gt;An open-source EEGLAB plugin for linear and nonlinear functional connectivity analysis between brain source regions of interest.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

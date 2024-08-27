@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Tien Dung Nguyen</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu10759283619448032952.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Bispectrum Decomposition</title>
+      <link>http://localhost:1313/project/bispectrum/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/bispectrum/</guid>
+      <description>&lt;p&gt;A decomposition method for bispectra that I extended as part of my master&amp;rsquo;s thesis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Resources Computational Neuroscience &amp; Grad School</title>
+      <link>http://localhost:1313/project/resources_compneuro/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/resources_compneuro/</guid>
+      <description>&lt;p&gt;A list of resources dedicated to Computational Neuroscience, including material related to graduate school.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ROIconnect</title>
+      <link>http://localhost:1313/project/roiconnect/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/roiconnect/</guid>
+      <description>&lt;p&gt;An open-source EEGLAB plugin for linear and nonlinear functional connectivity analysis between brain source regions of interest.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
