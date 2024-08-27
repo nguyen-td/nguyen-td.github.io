@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/open-source/</link>
       <atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <description>Open Source</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu10759283619448032952.png</url>
       <title>Open Source</title>
@@ -15,7 +15,7 @@
     <item>
       <title>ROIconnect</title>
       <link>http://localhost:1313/project/roiconnect/</link>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/roiconnect/</guid>
       <description>&lt;p&gt;An open-source EEGLAB plugin for linear and nonlinear functional connectivity analysis between brain source regions of interest.&lt;/p&gt;</description>
     </item>

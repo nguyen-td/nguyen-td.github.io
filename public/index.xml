@@ -278,7 +278,7 @@
 
 
 
-&lt;div id=&#34;chart-972451386&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-182974356&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -296,7 +296,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-972451386&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-182974356&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -926,6 +926,26 @@ Parallel 4   :         des6, after des4, 1d
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/pellegrini-distinguishing-2023/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cs394n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cs394n/</guid>
+      <description>&lt;h1 id=&#34;tien-dung-nguyen&#34;&gt;Tien Dung Nguyen&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:tien-dung.nguyen@utexas.edu&#34;&gt;tien-dung.nguyen@utexas.edu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am a first-year Neuroscience PhD student currently rotating with &lt;a href=&#34;https://gorislab.github.io&#34;&gt;Robbe Goris&lt;/a&gt;. I am interested in computational vision, specifially in how the brain processes visual inputs and turns them into predictions.&lt;/p&gt;
+&lt;p&gt;Potential topics I&amp;rsquo;d be interested in working on are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computational vision (e.g., neural network models of the visual system)&lt;/li&gt;
+&lt;li&gt;Computational neuroscience in the broadest sense&lt;/li&gt;
+&lt;li&gt;Spiking neural networks&lt;/li&gt;
+&lt;li&gt;Reinforcement learning&lt;/li&gt;
+&lt;li&gt;Parameter estimation (just a rough idea, not sure about it myself yet)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have not yet teamed up with anyone yet.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

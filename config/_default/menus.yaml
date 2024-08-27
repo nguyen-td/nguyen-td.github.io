@@ -15,4 +15,7 @@ main:
     weight: 13
   - name: projects
     url: projects/
-    weight: 30
+    weight: 14
+  - name: cs394n
+    url: cs394n/
+  - weight: 15  
