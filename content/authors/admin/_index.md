@@ -111,6 +111,6 @@ awards:
 
 # About Me
 
-Hello! I am a first-year Neuroscience PhD student affiliated with the [Interdisciplinary Neuroscience Program ](https://neuroscienceinstitute.utexas.edu/PhD%20Program) at [The University of Texas at Austin](https://www.utexas.edu/). I am interested in how mathematical and computational techniques can be leveraged to study how the visual system processes inputs and turns them into predictions. 
+Hello! I am a first-year Neuroscience PhD student affiliated with the [Interdisciplinary Neuroscience Program ](https://neuroscienceinstitute.utexas.edu/PhD%20Program) at [The University of Texas at Austin](https://www.utexas.edu/), supervised by Dr. Robbe Goris. I am interested in how the visual system processes inputs and turns them into predictions. 
 
 Before I joined the PhD program, I completed my master's in Computational Neuroscience at the [Bernstein Center for Computational Neuroscience Berlin](https://www.bccn-berlin.de/), where I worked with [Stefan Haufe](https://www.tu.berlin/uniml/about/head-of-group) and [Arnaud Delorme](https://arnauddelorme.com/) on computational methods for analyzing linear and nonlinear functional connectivity in EEG time series. Before that, I did my bachelor's in Computer Science & Economics at the [Berlin School of Economics and Law](https://www.hwr-berlin.de/en/), where I worked at [Berliner Wasserbetriebe](https://languages.bwb.de/en/index.php) as part of their dual studies program. 
