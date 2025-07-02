@@ -45,7 +45,7 @@ interests:
   - Computational Neuroscience
   - Machine Learning
   - Signal Processing
-  - Vision Science
+  - Vision Neuroscience
 
 education:
   - area: PhD Neuroscience
